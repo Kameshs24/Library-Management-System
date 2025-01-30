@@ -1,8 +1,6 @@
 # Library-Management-System
 To design and implement a library management system using MySQL, focusing on database design, setting constraints, stored procedures, triggers, and reporting using joins.
 
-# Library Management System
-
 ## Overview
 
 The **Library Management System** is a MySQL-based project designed to manage book rentals, member registrations, and overdue penalties. The system includes stored procedures and triggers to handle key operations efficiently.
